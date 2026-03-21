@@ -324,7 +324,7 @@ The convergence of Modelica-based simulation servers with agentic AI creates a p
 This keynote will reflect on Modelica’s evolution and principles, highlight ongoing innovations, and explore how web-enabled simulation and AI-assisted modeling and design exploration are transforming model-based design.
 
 **Biography**
-Elmqvist initiated the international standardization effort to design the next generation object-oriented language for physical modelling, Modelica in 1996. Elmqvist’s Ph.D. thesis from 1978 from the Department of Automatic Control, Lund Institute of Technology, Lund, Sweden contains the design of a novel object-oriented and equation- based modelling language, Dymola, and algorithms for symbolic model manipulation. Elmqvist founded Dynasim AB in 1992, which was merged into Dassault Systèmes in 2006 and is a cofounder of Modelon AB. 
+Elmqvist initiated the international standardization effort to design the next generation object-oriented language for physical modelling, Modelica in 1996. Elmqvist’s Ph.D. thesis from 1978 from the Department of Automatic Control, Lund Institute of Technology, Lund, Sweden contains the design of a novel object-oriented and equation- based modelling language, Dymola, and algorithms for symbolic model manipulation. Elmqvist founded Dynasim AB in 1992, which was acquired by Dassault Systèmes in 2006 and is a cofounder of Modelon AB. 
 
 ### 15 Years Functional Mock-up Interface – a Journey from FMI 1.0 to 3.0 and the Road Ahead
 

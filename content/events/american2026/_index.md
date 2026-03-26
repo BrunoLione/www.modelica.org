@@ -11,7 +11,7 @@ title: American Modelica & FMI Conference 2026
 {{</rawhtml>}}
 
 The **American Modelica & FMI Conference 2026** will be an in-person conference event. 
-The conference will take place at the **Georgia Institute of Technology** in the [Aerospace Design Laboratory](https://www.asdl.gatech.edu/) 
+The conference will take place at the **Georgia Institute of Technology** in the [Aerospace Systems Design Laboratory](https://www.asdl.gatech.edu/) 
 from **October 12–14, 2026**. It is organized by [NAMUG](https://namug.org/), the North American Modelica Users Group, 
 in cooperation with the [Modelica Association](/association/). Join us in person in Atlanta!
 
@@ -120,7 +120,7 @@ The conference is organized by NAMUG in cooperation with the [Modelica Associati
 
   -  **Conference Co-Chair** Dr. Michael Tiller, Juliahub
   -  **Conference Co-Chair** Dr. Hubertus Tummescheit, Model Based Innovation LLC
-  -  **Local Co-Chair** Prof. Dmitri Mavris, Georgia Institute of Technology 
+  -  **Local Co-Chair** Prof. Dimitri Mavris, Georgia Institute of Technology 
   -  **Program Chair** Prof. Luigi Vanfretti, Rensselaer Polytechnic Insitute
   -  **Program Chair** Dr. Michael Wetter,Lawrence Berkeley National Laboratory
   -  **Conference Excecutive Coordinator** Dr. Christopher Laughman, Mitsubishi Electric Research Laboratories

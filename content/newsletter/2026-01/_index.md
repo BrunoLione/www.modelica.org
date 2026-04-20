@@ -89,7 +89,7 @@ With **Simcenter&nbsp;Amesim&nbsp;2604**, exporting 3.0 FMUs now includes suppor
 
 ![](Amesim_FMU3_Arrays.gif)
 
-For more information on **Simcenter&nbsp;Amesim**, please visit our [website](https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html ).
+For more information on **Simcenter&nbsp;Amesim**, please visit our [website](https://www.siemens.com/en-us/products/simcenter/systems-simulation/amesim/ ).
 
 *This article is provided by Bruno Loyer ([Siemens Digital Industries Software](https://www.sw.siemens.com/ ))*
 

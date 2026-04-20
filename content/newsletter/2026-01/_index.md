@@ -48,6 +48,8 @@ issued on March 5, 2026
 </div>
 {{</rawhtml>}}
 
+## Vendor news
+
 ### Siemens Digital Industries Software
 
 #### Simcenter Amesim 2604 released
